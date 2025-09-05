@@ -9,7 +9,7 @@
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/AIInnovator6/cattle-management-ai.git
+https://github.com/GabsDevX/cattle-management-ai.git
 cd cattle-management-ai
 pip install -r requirements.txt
 python src/main.py
