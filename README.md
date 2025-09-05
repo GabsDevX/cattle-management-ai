@@ -7,9 +7,7 @@
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, etc.
 
 ## Instalação
-1. Clone o repositório:
-   ```bash
-https://github.com/GabsDevX/cattle-management-ai.git
+1. Clone o repositório: ```bash https://github.com/GabsDevX/cattle-management-ai.git
 cd cattle-management-ai
 pip install -r requirements.txt
 python src/main.py
