@@ -47,16 +47,6 @@ Esse comando garante que o Python reconheça o diretório `src/` como um pacote 
   {"media_peso": 485.0}
   ```
 
-## Capturas de Tela
-### Tela Inicial
-![Tela Inicial](screenshots/tela_inicial.png)
-
-### Dados do Gado
-![Dados do Gado](screenshots/dados_gado.png)
-
-### Gráficos de Análise
-![Gráficos de Análise](screenshots/graficos_analise.png)
-
 ## Contribuições
 Contribuições são bem-vindas! Siga estes passos para contribuir:
 1. Faça um fork do repositório.
